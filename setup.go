@@ -1,4 +1,4 @@
-package spidate
+package datedis
 
 import (
 	"time"
